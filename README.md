@@ -4,17 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Developer. Programmer . Softwear Engineer .
 -------------------------------------------
 
-* 🌍  I'm based in Nairobi ( Kenya )
-* ✉️  You can contact me at [hezron.w12@gmail.com](mailto:hezron.w12@gmail.com)
-* 🧠  I'm learning Everything relating to Artificial-intelligent
-* 🤝  I'm open to collaborating on Artificial-intelligent projects, Machine-Learning projects, Deep-learning Projects, Android App development Projects, and Web-based projects
-
-<a href="https://www.github.com/Hezron26" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/Hezron26?logo=github&style=for-the-badge&color=facc15&labelColor=7f1d1d" /></a>
-
-### Skills
-
-
+*   🌍  I'm based in Nairobi ( Kenya )
+*   ✉️  You can contact me at [hezron.w12@gmail.com](mailto:hezron.w12@gmail.com)
+*   🧠  I'm learning Everything relating to Artificial-intelligent
+*   🤝  I'm open to collaborating on Artificial-intelligent projects, Machine-Learning projects, Deep-learning Projects, Android App development Projects, and Web-based projects<a href="https://www.github.com/Hezron26" target="_blank" rel="noreferrer"><img
+                  src="https://img.shields.io/github/followers/Hezron26?logo=github&style=for-the-badge&color=facc15&labelColor=181824" /></a>### Skills 
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
@@ -34,24 +28,25 @@ src="https://img.shields.io/github/followers/Hezron26?logo=github&style=for-the-
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
 </p>
-
-
-### Socials
-
-<p align="left"> <a href="https://www.github.com/Hezron26" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/n_h_e_z_r_o_n_" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/nangulu-hezron-wekesa-b58583216" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://wa.me/254714415034" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/rss.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/20602532/nangulu-hezron-wekesa" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.youtube.com/c/@hezron_na" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a></p>
-
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/Hezron26"><img src="https://github-readme-stats.vercel.app/api?username=Hezron26&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=000000&icon_color=facc15&bg_color=7f1d1d&hide_border=true&show_icons=true" alt="Hezron26's GitHub stats" /></a>
-
-<a href="http://www.github.com/Hezron26"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Hezron26&stroke=000000&background=7f1d1d&ring=22c55e&fire=22c55e&currStreakNum=000000&currStreakLabel=22c55e&sideNums=000000&sideLabels=000000&dates=000000&hide_border=true" /></a>
-
-<a href="http://www.github.com/Hezron26"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Hezron26&bg_color=7f1d1d&color=000000&line=facc15&point=000000&area_color=7f1d1d&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-<a href="https://github.com/Hezron26" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hezron26&langs_count=10&title_color=22c55e&text_color=000000&icon_color=facc15&bg_color=7f1d1d&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-### Support Me
-
-<a href="https://www.buymeacoffee.com/hezronna"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+                    
+                  ### Socials
+                  
+                  
+                <p align="left">
+                          
+                      <a href="https://www.github.com/Hezron26" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
+                          
+                      <a href="http://www.instagram.com/n_h_e_z_r_o_n_" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
+                          
+                      <a href="https://www.linkedin.com/in/nangulu-hezron-wekesa-b58583216" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+                          
+                      <a href="https://wa.me/254714415034" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/rss.svg" width="32" height="32" /></a>
+                          
+                      <a href="https://www.stackoverflow.com/users/20602532/nangulu-hezron-wekesa" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a>
+                          
+                      <a href="https://www.youtube.com/c/@hezron_na" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a></p>### Badges<b>My GitHub Stats</b><a
+                      href="http://www.github.com/Hezron26"><img src="https://github-readme-stats.vercel.app/api?username=Hezron26&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=facc15&bg_color=181824&hide_border=true&show_icons=true" alt="Hezron26's GitHub stats" /></a><a
+                      href="http://www.github.com/Hezron26"><img
+                  src="https://github-readme-streak-stats.herokuapp.com/?user=Hezron26&stroke=ffffff&background=181824&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a><a
+                      href="http://www.github.com/Hezron26"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Hezron26&bg_color=181824&color=ffffff&line=facc15&point=ffffff&area_color=181824&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a><a href="https://github.com/Hezron26" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hezron26&langs_count=10&title_color=22c55e&text_color=ffffff&icon_color=facc15&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>### Support Me<a
+                  href="https://www.buymeacoffee.com/hezronna"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
