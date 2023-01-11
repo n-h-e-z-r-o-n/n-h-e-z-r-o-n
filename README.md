@@ -6,6 +6,7 @@ Developer. Programmer . Softwear Engineer .
 
 * 🌍  I'm based in Nairobi ( Kenya )
 * ✉️  You can contact me at [hezron.w12@gmail.com](mailto:hezron.w12@gmail.com)
+* ✉️  You can contact me at [ Phone ](https://wa.me/254714415034)
 * 🧠  I'm learning Everything relating to Artificial-intelligent
 * 🤝  I'm open to collaborating on Artificial-intelligent projects, Machine-Learning projects, Deep-learning Projects, Android App development Projects, and Web-based projects
 
