@@ -43,6 +43,25 @@ src="https://img.shields.io/github/followers/Hezron26?logo=github&style=for-the-
 
 ### Badges
 
+<h1 align="center">Hi 👋, I'm Hezron Nangulu</h1>
+<h3 align="center">A passionate Backend and Frontend developer.</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hezron26&label=Profile%20views&color=0e75b6&style=flat" alt="hezron26" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hezron26" alt="hezron26" /></a> </p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hezron26&show_icons=true&locale=en&layout=compact" alt="hezron26" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hezron26&show_icons=true&locale=en" alt="hezron26" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hezron26&" alt="hezron26" /></p>
+
+
+
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/Hezron26"><img src="https://github-readme-stats.vercel.app/api?username=Hezron26&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=facc15&bg_color=181824&hide_border=true&show_icons=true" alt="Hezron26's GitHub stats" /></a>
