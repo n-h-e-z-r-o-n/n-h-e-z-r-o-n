@@ -17,7 +17,7 @@ src="https://img.shields.io/github/followers/Hezron26?logo=github&style=for-the-
 
 <img align='right' alt='codding' width='400' src="https://github.com/Hezron26/assets/blob/main/3467.gif" >
 
-![3467](https://user-images.githubusercontent.com/55835551/212484410-db5fd00b-71b6-4280-927f-9b4c931a66ea.gif)
+
 
 
 
