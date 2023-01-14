@@ -13,6 +13,7 @@ Developer. Programmer . Softwear Engineer .
 
 <a href="https://www.github.com/Hezron26" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Hezron26?logo=github&style=for-the-badge&color=facc15&labelColor=181824" /></a>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hezron26&label=Profile%20views&color=0e75b6&style=flat" alt="hezron26" /> </p>
 
 <img align='right' alt='codding' width='400' src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" >
 
@@ -48,7 +49,7 @@ src="https://img.shields.io/github/followers/Hezron26?logo=github&style=for-the-
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hezron26&label=Profile%20views&color=0e75b6&style=flat" alt="hezron26" /> </p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hezron26" alt="hezron26" /></a> </p>
 
