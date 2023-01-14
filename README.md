@@ -13,6 +13,8 @@ Developer. Programmer . Softwear Engineer .
 <a href="https://www.github.com/Hezron26" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Hezron26?logo=github&style=for-the-badge&color=facc15&labelColor=181824" /></a>
 
+<img align='right' alt='codding' width='400' src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" >
+
 ### Skills
 
 
