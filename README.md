@@ -94,6 +94,9 @@ src="https://img.shields.io/github/followers/Hezron26?logo=github&style=for-the-
 
 ### Support Me
 
+![69-eye-outline](https://user-images.githubusercontent.com/55835551/215277069-79e5c07f-ef39-4c27-8d28-ef66e6ae70bd.gif)
+
+
 <a href="https://www.buymeacoffee.com/hezronna"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
 
 ![pig-421_128](https://user-images.githubusercontent.com/55835551/212485593-532e0dd2-2149-41be-a171-73308136cbb8.gif)
