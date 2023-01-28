@@ -98,5 +98,6 @@ src="https://img.shields.io/github/followers/Hezron26?logo=github&style=for-the-
 
 ![pig-421_128](https://user-images.githubusercontent.com/55835551/212485593-532e0dd2-2149-41be-a171-73308136cbb8.gif)
 
+![ghost](https://user-images.githubusercontent.com/55835551/215276744-2417d461-8fc1-478d-aa60-7b840b77303d.jpg)
 
 ![145334](https://user-images.githubusercontent.com/55835551/213665858-3e7f3a3e-2e34-4b66-9165-feb9408fa54d.jpg)
