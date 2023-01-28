@@ -16,7 +16,7 @@ Software developer / Programmer / Software engineer
 src="https://img.shields.io/github/followers/Hezron26?logo=github&style=for-the-badge&color=facc15&labelColor=181824" /></a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hezron26&label=Profile%20views&color=0e75b6&style=flat" alt="hezron26" /> </p>
 
-<img align='right' alt='codding' width='400' src="https://github.com/Hezron26/assets/blob/main/3467.gif" >
+
 
 
 
@@ -45,6 +45,10 @@ src="https://img.shields.io/github/followers/Hezron26?logo=github&style=for-the-
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
 </p>
+
+<img align='right' alt='codding' width='400' src="https://github.com/Hezron26/assets/blob/main/3467.gif" >
+
+
 
 
 ### Socials
