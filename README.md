@@ -49,7 +49,21 @@ src="https://img.shields.io/github/followers/Hezron26?logo=github&style=for-the-
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/Hezron26" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/n_h_e_z_r_o_n_" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/nangulu-hezron-wekesa-b58583216" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://wa.me/254714415034" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/rss.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/20602532/nangulu-hezron-wekesa" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.youtube.com/c/@hezron_na" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a></p>
+<p align="left">
+  
+<a href="https://www.github.com/Hezron26" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
+  
+<a href="http://www.instagram.com/n_h_e_z_r_o_n_" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
+  
+<a href="https://www.linkedin.com/in/nangulu-hezron-wekesa-b58583216" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+  
+<a href="https://wa.me/254714415034" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/rss.svg" width="32" height="32" /></a> 
+  
+<a href="https://www.stackoverflow.com/users/20602532/nangulu-hezron-wekesa" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a>
+  
+<a href="https://www.youtube.com/c/@hezron_na" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a>
+  
+</p>
 
 ![fox-826_512](https://user-images.githubusercontent.com/55835551/212486395-4b11e00a-ad7e-493c-bac6-f2353a6a8dc4.gif)
 
