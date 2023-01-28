@@ -68,7 +68,7 @@ src="https://img.shields.io/github/followers/Hezron26?logo=github&style=for-the-
 <a href="https://www.youtube.com/c/@hezron_na" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a>
   
 </p>
-![69-eye-outline](https://user-images.githubusercontent.com/55835551/215277069-79e5c07f-ef39-4c27-8d28-ef66e6ae70bd.gif)
+
 
 ![fox-826_512](https://user-images.githubusercontent.com/55835551/212486395-4b11e00a-ad7e-493c-bac6-f2353a6a8dc4.gif)
 
@@ -95,6 +95,7 @@ src="https://img.shields.io/github/followers/Hezron26?logo=github&style=for-the-
 
 ### Support Me
 
+![69-eye-outline (2)](https://user-images.githubusercontent.com/55835551/215277330-e453ba88-4bd7-4200-9444-1ca2c8eec396.gif)
 
 
 <a href="https://www.buymeacoffee.com/hezronna"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
