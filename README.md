@@ -1,4 +1,3 @@
-<body style="background-color: lightgray;"> </body>
 ![Hezron_na](https://user-images.githubusercontent.com/55835551/215275112-3c4a4e03-c366-4faf-a72f-9f486206f396.jpg)
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Hezron Nangulu
