@@ -1,3 +1,4 @@
+<body style="background-color: lightgray;">
 ![Hezron_na](https://user-images.githubusercontent.com/55835551/215275112-3c4a4e03-c366-4faf-a72f-9f486206f396.jpg)
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Hezron Nangulu
@@ -17,7 +18,7 @@ src="https://img.shields.io/github/followers/Hezron26?logo=github&style=for-the-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hezron26&label=Profile%20views&color=0e75b6&style=flat" alt="hezron26" /> </p>
 
 
-
+</body>
 
 
 
