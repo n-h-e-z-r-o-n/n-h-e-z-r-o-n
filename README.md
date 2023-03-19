@@ -50,7 +50,7 @@ src="https://img.shields.io/github/followers/Hezron26?logo=github&style=for-the-
 </p>
 
 <img align='right' alt='codding' width='300' src="https://github.com/Hezron26/assets/blob/main/3467.gif" >
-<img align='right' alt='codding' width='400' src="([https://user-images.githubusercontent.com/55835551/226182355-3e69dcff-ea2a-4d72-a990-791d37793d69.png](https://github.com/Hezron26/assets/blob/main/726358-removebg-preview.png)" >
+<img align='right' alt='pand' width='400' src="https://github.com/Hezron26/assets/blob/main/726358-removebg-preview.png" >
 
 
 
