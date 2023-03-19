@@ -94,13 +94,8 @@ src="https://img.shields.io/github/followers/Hezron26?logo=github&style=for-the-
 <a href="https://github.com/Hezron26" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hezron26&langs_count=10&title_color=22c55e&text_color=ffffff&icon_color=facc15&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 ### Support Me
-
-![69-eye-outline (2)](https://user-images.githubusercontent.com/55835551/215277330-e453ba88-4bd7-4200-9444-1ca2c8eec396.gif)
-
-
 <a href="https://www.buymeacoffee.com/hezronna"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
 
 
 <img align='right' alt='pand' width='200' src="https://github.com/Hezron26/assets/blob/main/fam.png" >
-
 ![lazy p](https://user-images.githubusercontent.com/55835551/226184555-72e10ba4-372b-4040-8d6b-cfd2537cc709.jpg)
