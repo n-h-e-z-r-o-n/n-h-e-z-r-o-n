@@ -76,9 +76,6 @@ src="https://img.shields.io/github/followers/Hezron26?logo=github&style=for-the-
 
 
 
-### Badges
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hezron26" alt="hezron26" /></a> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
