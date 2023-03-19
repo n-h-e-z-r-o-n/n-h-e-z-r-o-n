@@ -49,7 +49,7 @@ src="https://img.shields.io/github/followers/Hezron26?logo=github&style=for-the-
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>   
 </p>
 
-<img align='right' alt='codding' width='300' src="https://github.com/Hezron26/assets/blob/main/3467.gif" >
+<img align='right' alt='codding' width='270' src="https://github.com/Hezron26/assets/blob/main/3467.gif" >
 <img align='right' alt='pand' width='400' src="https://github.com/Hezron26/assets/blob/main/726358-removebg-preview.png" >
 
 
