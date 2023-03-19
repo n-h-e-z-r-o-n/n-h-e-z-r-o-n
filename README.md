@@ -50,6 +50,7 @@ src="https://img.shields.io/github/followers/Hezron26?logo=github&style=for-the-
 </p>
 
 <img align='right' alt='codding' width='400' src="https://github.com/Hezron26/assets/blob/main/3467.gif" >
+![726358-removebg-preview](https://user-images.githubusercontent.com/55835551/226182072-61a4f4a5-3ec1-4c18-8747-7d36fa71864e.png)
 
 
 
@@ -73,7 +74,7 @@ src="https://img.shields.io/github/followers/Hezron26?logo=github&style=for-the-
 </p>
 
 
-![fox-826_512](https://user-images.githubusercontent.com/55835551/212486395-4b11e00a-ad7e-493c-bac6-f2353a6a8dc4.gif)
+
 
 ### Badges
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hezron26" alt="hezron26" /></a> </p>
@@ -103,6 +104,6 @@ src="https://img.shields.io/github/followers/Hezron26?logo=github&style=for-the-
 
 <a href="https://www.buymeacoffee.com/hezronna"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
 
-![726358-removebg-preview](https://user-images.githubusercontent.com/55835551/226182072-61a4f4a5-3ec1-4c18-8747-7d36fa71864e.png)
+
 
 
