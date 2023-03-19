@@ -1,5 +1,5 @@
-![Hezron_na](https://user-images.githubusercontent.com/55835551/215275112-3c4a4e03-c366-4faf-a72f-9f486206f396.jpg)
-![image](https://user-images.githubusercontent.com/55835551/226181395-49cd882f-f77d-410d-a975-5091cab7021f.png)
+![image](https://user-images.githubusercontent.com/55835551/226181615-2a038180-4c77-43dc-8fa1-1b3ea5eb97aa.png)
+
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Hezron Nangulu
 ======================================================================================================================================
