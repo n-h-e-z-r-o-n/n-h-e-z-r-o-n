@@ -104,3 +104,4 @@ src="https://img.shields.io/github/followers/Hezron26?logo=github&style=for-the-
 
 <img align='right' alt='pand' width='200' src="https://github.com/Hezron26/assets/blob/main/fam.png" >
 
+![lazy p](https://user-images.githubusercontent.com/55835551/226184555-72e10ba4-372b-4040-8d6b-cfd2537cc709.jpg)
