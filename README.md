@@ -50,8 +50,10 @@ src="https://img.shields.io/github/followers/Hezron26?logo=github&style=for-the-
 </p>
 
 <img align='right' alt='codding' width='400' src="https://github.com/Hezron26/assets/blob/main/3467.gif" >
-![726358-removebg-preview](https://user-images.githubusercontent.com/55835551/226182072-61a4f4a5-3ec1-4c18-8747-7d36fa71864e.png)
 
+
+
+![726358-removebg-preview](https://user-images.githubusercontent.com/55835551/226182265-1a5e02ac-c7ed-4a99-8bbc-fab300d4f970.png)
 
 
 
