@@ -105,7 +105,7 @@ src="https://img.shields.io/github/followers/Hezron26?logo=github&style=for-the-
 <!--START_SECTION:waka-->
 
 ```text
-From: 05 January 2022 - To: 21 March 2023
+From: 05 January 2022 - To:  2023
 
 Total Time: 578 hrs 54 mins
 
