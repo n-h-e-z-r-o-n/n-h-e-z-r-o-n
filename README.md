@@ -7,7 +7,7 @@ Software developer / Programmer / Software engineer
 -------------------------------------------
 
 * 🌍  I'm based in Nairobi ( Kenya )
-* ✉️  You can contact me at [hezron.w12@gmail.com](mailto:hezron.w12@gmail.com)
+* ✉️  You can contact me at [ click ](mailto:hezron.w12@gmail.com)
 * ✉️  You can contact me at [ Phone ](https://wa.me/254714415034)
 * 🌍    Website_Profile [n_h_e_z_r_o_n_](https://sites.google.com/view/zadhron/home)
 * 🧠  I'm learning Everything relating to Artificial-intelligent
