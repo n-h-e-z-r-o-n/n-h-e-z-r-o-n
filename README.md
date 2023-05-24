@@ -10,8 +10,8 @@ Software developer / Programmer / Software engineer
 * ✉️  You can contact me at [ click ](mailto:hezron.w12@gmail.com)
 * ✉️  You can contact me at [ Phone ](https://wa.me/254714415034)
 * 🌍  Website_Profile [n_h_e_z_r_o_n_](https://sites.google.com/view/zadhron/home)
-* 🌍  Resume [n_h_e_z_r_o_n_](https://github.com/Hezron26/Hezron26/files/11556946/resume.12.pdf)
-)
+* 🌍  Resume ![Nangulu Hezron Wekesa Resume](https://github.com/Hezron26/Hezron26/assets/55835551/a0fff2ef-4751-4ede-a2f2-22285ddc59ed)
+
 * 🧠  I'm learning Everything relating to Artificial-intelligent
 * 🤝  I'm open to collaborating on Artificial-intelligent projects, Machine-Learning projects, Deep-learning Projects, Android App development Projects, and Web-based projects
 
