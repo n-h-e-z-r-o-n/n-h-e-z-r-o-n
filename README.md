@@ -87,7 +87,7 @@ src="https://img.shields.io/github/followers/Hezron26?logo=github&style=for-the-
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/Hezron26"><img src="https://github-readme-stats.vercel.app/api?username=Hezron26&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=facc15&bg_color=181824&hide_border=true&show_icons=true" alt="Hezron26's GitHub stats" /></a>
+
 
 <a href="http://www.github.com/Hezron26"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Hezron26&stroke=ffffff&background=181824&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
