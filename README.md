@@ -84,17 +84,6 @@ src="https://img.shields.io/github/followers/Hezron26?logo=github&style=for-the-
 
 
 
-
-<b>My GitHub Stats</b>
-
-
-
-<a href="http://www.github.com/Hezron26"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Hezron26&stroke=ffffff&background=181824&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-
-
-<a href="https://github.com/Hezron26" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hezron26&langs_count=10&title_color=22c55e&text_color=ffffff&icon_color=facc15&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
 ### Support Me
 <a href="https://www.buymeacoffee.com/hezronna"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
 
