@@ -1,6 +1,6 @@
 ![panda](https://user-images.githubusercontent.com/55835551/226184687-89ef1158-542d-4e90-93c8-aedc6a84332b.jpg)
 
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Hezron Nangulu
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Hezron
 ======================================================================================================================================
 
 Software developer / Programmer / Software engineer
@@ -10,7 +10,7 @@ Software developer / Programmer / Software engineer
 * ✉️  You can contact me at [ click ](mailto:hezron.w12@gmail.com)
 * ✉️  You can contact me at [ Phone ](https://wa.me/254714415034)
 * 🌍  Website_Profile [n_h_e_z_r_o_n_](https://sites.google.com/view/zadhron/home)
-* 🌍  Resume [view](https://github.com/Hezron26/Hezron26/assets/55835551/a0fff2ef-4751-4ede-a2f2-22285ddc59ed)
+* 🌍  
 
 * 🧠  I'm learning Everything relating to Artificial-intelligent
 * 🤝  I'm open to collaborating on Artificial-intelligent projects, Machine-Learning projects, Deep-learning Projects, Android App development Projects, and Web-based projects
@@ -91,5 +91,6 @@ src="https://img.shields.io/github/followers/Hezron26?logo=github&style=for-the-
 <img align='right' alt='pand' width='200' src="https://github.com/Hezron26/assets/blob/main/fam.png" >
 
 ![lazy p](https://user-images.githubusercontent.com/55835551/226184555-72e10ba4-372b-4040-8d6b-cfd2537cc709.jpg)
+Resume [view](https://github.com/Hezron26/Hezron26/assets/55835551/a0fff2ef-4751-4ede-a2f2-22285ddc59ed)
 
 
