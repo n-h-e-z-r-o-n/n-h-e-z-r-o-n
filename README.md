@@ -2,9 +2,8 @@
 
 Software developer / Programmer / Software engineer
 -------------------------------------------
-<a href="https://www.github.com/Hezron26" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/Hezron26?logo=github&style=for-the-badge&color=facc15&labelColor=181824" /></a>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hezron26&label=Profile%20views&color=0e75b6&style=flat" alt="hezron26" /> </p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ice-black&label=Profile%20views&color=0e75b6&style=flat" alt="ice-black" /> </p>
 
 
 
@@ -78,7 +77,6 @@ src="https://img.shields.io/github/followers/Hezron26?logo=github&style=for-the-
 <img align='right' alt='pand' width='200' src="https://github.com/Hezron26/assets/blob/main/fam.png" >
 
 ![lazy p](https://user-images.githubusercontent.com/55835551/226184555-72e10ba4-372b-4040-8d6b-cfd2537cc709.jpg)
-Resume [view](https://github.com/Hezron26/Hezron26/assets/55835551/a0fff2ef-4751-4ede-a2f2-22285ddc59ed)
 
 
-* 🌍  Website_Profile [n_h_e_z_r_o_n_](https://sites.google.com/view/zadhron/home)
+Website_Profile [n_h_e_z_r_o_n_](https://sites.google.com/view/zadhron/home)
