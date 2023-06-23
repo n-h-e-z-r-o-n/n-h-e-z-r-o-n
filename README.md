@@ -2,16 +2,6 @@
 
 Software developer / Programmer / Software engineer
 -------------------------------------------
-
-* 🌍  I'm based in Nairobi ( Kenya )
-* ✉️  You can contact me at [ click ](mailto:hezron.w12@gmail.com)
-* ✉️  You can contact me at [ Phone ](https://wa.me/254714415034)
-* 🌍  Website_Profile [n_h_e_z_r_o_n_](https://sites.google.com/view/zadhron/home)
-* 🌍  
-
-* 🧠  I'm learning Everything relating to Artificial-intelligent
-* 🤝  I'm open to collaborating on Artificial-intelligent projects, Machine-Learning projects, Deep-learning Projects, Android App development Projects, and Web-based projects
-
 <a href="https://www.github.com/Hezron26" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Hezron26?logo=github&style=for-the-badge&color=facc15&labelColor=181824" /></a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hezron26&label=Profile%20views&color=0e75b6&style=flat" alt="hezron26" /> </p>
@@ -91,3 +81,4 @@ src="https://img.shields.io/github/followers/Hezron26?logo=github&style=for-the-
 Resume [view](https://github.com/Hezron26/Hezron26/assets/55835551/a0fff2ef-4751-4ede-a2f2-22285ddc59ed)
 
 
+* 🌍  Website_Profile [n_h_e_z_r_o_n_](https://sites.google.com/view/zadhron/home)
