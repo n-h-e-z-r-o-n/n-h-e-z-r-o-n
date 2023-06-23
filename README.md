@@ -1,6 +1,6 @@
 ![panda](https://user-images.githubusercontent.com/55835551/226184687-89ef1158-542d-4e90-93c8-aedc6a84332b.jpg)
 
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Hezron
+
 ======================================================================================================================================
 
 Software developer / Programmer / Software engineer
