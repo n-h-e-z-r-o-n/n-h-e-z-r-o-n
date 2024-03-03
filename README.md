@@ -79,6 +79,5 @@ Software developer / Programmer / Software engineer
 ![lazy p](https://user-images.githubusercontent.com/55835551/226184555-72e10ba4-372b-4040-8d6b-cfd2537cc709.jpg)
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=ice-black&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 100%" /></div>  
 
 Website_Profile [n_h_e_z_r_o_n_](https://sites.google.com/view/zadhron/home)
