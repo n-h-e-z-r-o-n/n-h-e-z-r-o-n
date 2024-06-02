@@ -1,4 +1,3 @@
-![panda](https://user-images.githubusercontent.com/55835551/226184687-89ef1158-542d-4e90-93c8-aedc6a84332b.jpg)
 ![_1d08cbf9-e032-4a31-9358-4f43ed46c5dc](https://github.com/ice-black/ice-black/assets/55835551/28161d62-6031-4908-a731-97801397684e)
 
 Software developer / Programmer / Software engineer
