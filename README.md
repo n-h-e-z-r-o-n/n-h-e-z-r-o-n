@@ -42,21 +42,6 @@ Software developer / Programmer / Software engineer
 <img align='right'  alt='' width='200' src="https://github.com/Hezron26/assets/blob/main/crime.png" >
 
 
-## 📚 Certifications
-
-1.  [Software Engineering (The Hong Kong University of Science and Technology)](https://www.coursera.org/account/accomplishments/specialization/certificate/LY78SU6EZQUX)
-2. [Full Stack Software Developer  (IBM)](https://www.coursera.org/account/accomplishments/specialization/certificate/SKJ2L3KXRDV9)
-3. [Scrum Master (LearnQuest)](https://www.coursera.org/account/accomplishments/specialization/certificate/YAHTEPJHKH3N)
-4. [UX Design (Coursera)](https://www.coursera.org/account/accomplishments/specialization/certificate/YQASVET4DS3L)
-5. [IT Automation with Python Specialization (Coursera)](https://www.coursera.org/account/accomplishments/specialization/certificate/FQY4NSEVG4AV)
-6. [IT Support Specialization (Google)](https://www.coursera.org/account/accomplishments/specialization/certificate/M5UN77JUL5VG)
-7. [Project Management Specialization (Coursera)](https://www.coursera.org/account/accomplishments/specialization/certificate/PT9YNRQ773QQ)
-8. [Android Developer (Meta)](https://www.coursera.org/professional-certificates/meta-android-developer)
-9. [Cybersecurity Specialization (Coursera)](https://www.coursera.org/account/accomplishments/specialization/certificate/ZY97T2777V22)
-10. [Data Analytics Specialization (Coursera)](https://www.coursera.org/account/accomplishments/specialization/certificate/TNHPBAB8CHPR)
-11. [Android Developer (Meta)](https://www.coursera.org/account/accomplishments/specialization/certificate/MUKOVP4JUGL6)
-12. [ Digital Marketing & E-commerce (Google )](https://www.coursera.org/account/accomplishments/specialization/certificate/P4LBLR8H9AHR)
-13. [ AI Developer (IBM)](https://www.coursera.org/account/accomplishments/specialization/certificate/VXHH9D9CFZSC)
 
 
 
@@ -82,8 +67,24 @@ Software developer / Programmer / Software engineer
 
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+
+## 📚 Certifications
+
+1.  [Software Engineering (The Hong Kong University of Science and Technology)](https://www.coursera.org/account/accomplishments/specialization/certificate/LY78SU6EZQUX)
+2. [Full Stack Software Developer  (IBM)](https://www.coursera.org/account/accomplishments/specialization/certificate/SKJ2L3KXRDV9)
+3. [Scrum Master (LearnQuest)](https://www.coursera.org/account/accomplishments/specialization/certificate/YAHTEPJHKH3N)
+4. [UX Design (Coursera)](https://www.coursera.org/account/accomplishments/specialization/certificate/YQASVET4DS3L)
+5. [IT Automation with Python Specialization (Coursera)](https://www.coursera.org/account/accomplishments/specialization/certificate/FQY4NSEVG4AV)
+6. [IT Support Specialization (Google)](https://www.coursera.org/account/accomplishments/specialization/certificate/M5UN77JUL5VG)
+7. [Project Management Specialization (Coursera)](https://www.coursera.org/account/accomplishments/specialization/certificate/PT9YNRQ773QQ)
+8. [Android Developer (Meta)](https://www.coursera.org/professional-certificates/meta-android-developer)
+9. [Cybersecurity Specialization (Coursera)](https://www.coursera.org/account/accomplishments/specialization/certificate/ZY97T2777V22)
+10. [Data Analytics Specialization (Coursera)](https://www.coursera.org/account/accomplishments/specialization/certificate/TNHPBAB8CHPR)
+11. [Android Developer (Meta)](https://www.coursera.org/account/accomplishments/specialization/certificate/MUKOVP4JUGL6)
+12. [ Digital Marketing & E-commerce (Google )](https://www.coursera.org/account/accomplishments/specialization/certificate/P4LBLR8H9AHR)
+13. [ AI Developer (IBM)](https://www.coursera.org/account/accomplishments/specialization/certificate/VXHH9D9CFZSC)
+
+
 
 
 
