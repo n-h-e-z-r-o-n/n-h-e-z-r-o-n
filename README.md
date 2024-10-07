@@ -68,6 +68,22 @@ Software developer / Programmer / Software engineer
 
 <h3 align="left">Connect with me:</h3>
 
+##
+
+
+
+
+
+### Support Me
+<a href="https://www.buymeacoffee.com/hezronna"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+
+
+<img align='right' alt='pand' width='200' src="https://github.com/Hezron26/assets/blob/main/fam.png" >
+
+![lazy p](https://user-images.githubusercontent.com/55835551/226184555-72e10ba4-372b-4040-8d6b-cfd2537cc709.jpg)
+
+
+
 ## 📚 Certifications
 
 1.  [Software Engineering (The Hong Kong University of Science and Technology)](https://www.coursera.org/account/accomplishments/specialization/certificate/LY78SU6EZQUX)
@@ -85,17 +101,6 @@ Software developer / Programmer / Software engineer
 13. [ AI Developer (IBM)](https://www.coursera.org/account/accomplishments/specialization/certificate/VXHH9D9CFZSC)
 
 
-
-
-
-
-### Support Me
-<a href="https://www.buymeacoffee.com/hezronna"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
-
-
-<img align='right' alt='pand' width='200' src="https://github.com/Hezron26/assets/blob/main/fam.png" >
-
-![lazy p](https://user-images.githubusercontent.com/55835551/226184555-72e10ba4-372b-4040-8d6b-cfd2537cc709.jpg)
 
 ## Github Stats  
 
