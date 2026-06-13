@@ -102,6 +102,7 @@ Software developer / Programmer / Software engineer
 
 
 
-## Live Projects 
-
-- Movie Website [VIEW](https://movionyx.com)
+## Public Projects 
+#Web apps
+- Echo Anime [VIEW](https://echo-anime.vercel.app)
+- Scripture Api [VIEW](https://scripture-api.vercel.app)
