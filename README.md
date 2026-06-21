@@ -103,6 +103,6 @@ Software developer / Programmer / Software engineer
 
 
 ## Public Projects 
-#Web apps
+#APIS
 - Echo Anime [VIEW](https://echo-anime.vercel.app)
 - Scripture Api [VIEW](https://scripture-api.vercel.app)
